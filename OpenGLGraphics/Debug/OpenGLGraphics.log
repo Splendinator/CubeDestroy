@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\dominic\desktop\opengl rasteriser\openglgraphics\main.cpp(77): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\opengl rasteriser\openglgraphics\main.cpp(131): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\dominic\desktop\opengl rasteriser\openglgraphics\main.cpp(145): warning C4305: 'argument': truncation from 'double' to 'const float'
+  OpenGLGraphics.vcxproj -> C:\Users\Dominic\Desktop\OpenGL Rasteriser\OpenGLGraphics\Debug\OpenGLGraphics.exe
+  OpenGLGraphics.vcxproj -> C:\Users\Dominic\Desktop\OpenGL Rasteriser\OpenGLGraphics\Debug\OpenGLGraphics.pdb (Partial PDB)
